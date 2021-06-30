@@ -4,84 +4,84 @@
             "GameId": "1",
             "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.police.city.traffic&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Police-City-Traffic-Warden-Duty-2019.jpg"
         },
         {
             "GameId": "2",
             "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.virtual.rent.family.sim&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Virtual-Rent-House-Search-Happy-Family-Life.jpg"
         },
         {
             "GameId": "3",
             "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.kids.dance.battle.simulator&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Kids-Dance-Battle-Floss.jpg"
         },
         {
             "GameId": "4",
             "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.police.tiger.chase.crime.simulator&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Police-Tiger-Chase-Simulator-City-Crime.jpg"
         },
         {
         "GameId": "5",
             "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.golf.masterking&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Pro-Golf-Master-Virtual-King.jpg"
         },
         {
             "GameId": "6",
             "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.high.school.life.girl.sim&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Virtual-High-School-Life-Simulator.jpg"
         },
         {
             "GameId": "7",
             "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.superstar.hollywood.family.simulator&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Virtual-Super-Star-Family-Simulator.jpg"
         },
         {
             "GameId": "8",
             "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.scorpion.family.simulator&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Wild-Scorpion-Family-Jungle-Simulator.jpg"
         },
         {
             "GameId": "9",
             "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.underwater.car.stunts.flying.transform&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Underwater-City-Ultimate-Flying-Car-Stunt.jpg"
         },
         {
             "GameId": "10",
             "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.train.taxi.hill.adventure&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Mountain-Train-Taxi-Hilly-Adventure.jpg"
         },
         {
             "GameId": "11",
             "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.wicket.keeper.cricket.cup&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Wicket-Keeper-2019-Cricket-Cup.jpg"
         },
         {
             "GameId": "12",
             "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.talking.seagull&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Talking-Seagull.jpg"
         }
     ]
